@@ -1,0 +1,108 @@
+
+body { 
+background-color: #25293a;
+ }
+
+
+
+
+ #nav  {list-style-type: none;
+ 	margin: 0;
+ 	margin-top: 50px;
+ 	padding: 0;
+ 	font-size: 50px;
+ 	text-decoration:;
+ 	text-align: center;
+ }
+
+ #nav li {display: inline;}
+
+ #nav li a{
+ 	color: gray;
+ 	padding: 8px 16px;
+ 	text-decoration: none;
+
+ }
+
+ #nav li a:hover { color: orange; }
+
+  #nav li a.active {color: red;}
+
+
+
+h1{ 
+	text-align: center;
+	font-size: 100px;
+	font-style: oblique;
+	color: orange;
+	margin-bottom: 0;
+	font-family: "Times New Roman", Times, serif; 
+
+ }
+
+ h2
+ {
+ 	font-size: 20px;
+
+ 	color: silver;
+ 	text-align: center;
+ 	margin: 0;
+
+
+ }
+
+ h3 {
+ 	font-size: 75px;
+text-align: center;
+
+
+ }
+ 
+ h4 { font-size: 50px;
+ 	color: orange; 
+ 	margin:0;
+ 	margin-top: 100px;}
+
+ 	h5 {font-size: 30px;
+ 		color: silver;
+ 		margin: 10px;
+ 		margin-left: 20px;}
+
+body {
+	color:gray;
+	font-size: 20px;
+}
+
+p {margin-left: 50px;}
+
+article { 
+float: left;
+margin-left: 300px;
+padding-bottom: 10%;
+
+
+}
+
+aside
+{ float: right;
+	width:45%;
+
+}
+
+
+div { margin: 125px; 
+margin-top:50px;}
+
+
+#pic ul {list-style-type: none;
+	margin: 0px;
+ 	
+ }
+ #pic li {display: inline-block;
+ 	margin: 10px;}
+
+ #skills ul {list-style-type: none;
+ 	padding: 0;}
+
+ #skills li {display: inline;
+ 	margin: 5px;}
